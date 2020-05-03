@@ -1,0 +1,28 @@
+{
+  "name": "akpako",
+  "version": "1.0.0",
+  "description": "Chrome extension for clearing cache, history and cookies of a particular platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansmog/akpako.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "git",
+    "gulp"
+  ],
+  "author": "Juwon Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dansmog/akpako/issues"
+  },
+  "homepage": "https://github.com/dansmog/akpako#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
